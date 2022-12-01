@@ -1,3 +1,7 @@
+#Datos adicionales
+.DS_Store
+/Datos_Originales
+
 # History files
 .Rhistory
 .Rapp.history
